@@ -1,4 +1,3 @@
-#hola mundo python3 power sensor de presion 
-X.1.34.8737636736474736738347747  Y.1.78.937336363827363667366  Z.1.99.836637363773637747483747- >>>>>>>> 100000000000m) atack hear > Sensor-de-presion-BMP280-con-Arduino
-Hoy conoceremos el funcionamiento del sensor BMP280 para obtener la temperatura y presión con Arduino
-https://es.wikipedia.org/wiki/Sensor_de_presi%C3%B3n?wprov=sfla1 arduino uno circuit replica 5v nRF24L01 ""
+#hola mundo" python3 == power sensor de presion ==
+X.19.34.873763673647473673834774799999999 Y.19.78.937336363827363667366999999999999 Z.19.99.8366373637736377474837479999999999. (100000000000m) > atack hear < Sensor-de-presion-BMP280-con-Arduino
+Hoy conoceremos el funcionamiento del sensor BMP280 para mas velosidad replica de arduino uno circuit plac 5v replica 5v nRF24L01 ""
